@@ -1,10 +1,10 @@
 # Rapport-Stage
 
 ## Original
-La salle Adagio (Photo 2) comprend 150 places assises et permet d’accueillir de nombreux artistes et de faire découvrir à un large public des musiques variées : classique, jazz, chanson, musiques du monde, etc. La programmation éclectique de l’Adagio fait appel à des professionnels de haut niveau, musiciens de renommée nationale et internationale, ainsi qu’à de jeunes musiciens prometteurs.
+Il pourrait être un référent handicap qui serait être à-même de rencontrer les familles et de construire avec elles le projet de leur enfant. Cela passe notamment par un aménagement spécifique du cursus, une réorganisation d’emploi du temps, l’aide au choix de l’instrument, ou encore le lien avec les différents thérapeutes de l’élève.
 
 ## Premier jet
-La salle Adagio (Photo 2) possède 150 sièges et est un lieu où il est possible de voir de nombreux artistes et de découvrir différents types de musique : classique, jazz, chanson, musiques du monde, etc. La programmation variée de l'Adagio se compose de professionnels de haut niveau, musiciens reconnus nationalement et internationalement, ainsi que des talents émergents.
+Il pourrait être bénéfique d'avoir un délégué pour les personnes handicapées qui serait capable de rencontrer les familles et de développer avec elles un plan d'action pour leur enfant. Il est important de prendre en compte les besoins spécifiques de chaque enfant, et cela peut inclure un aménagement personnalisé du parcours scolaire, une planification de l'emploi du temps, une aide pour choisir un instrument de musique, ou encore un lien avec les différents professionnels de santé de l'élève.
 
 ## Version plus professionnelle
-La salle Adagio (Photo 2) est équipée de 150 places assises et accueille régulièrement des artistes de renom, offrant ainsi au public une diversité de genres musicaux tels que la musique classique, le jazz, la chanson et les musiques du monde. La programmation éclectique de l'Adagio est constituée de professionnels de haut niveau, musiciens de renommée nationale et internationale, ainsi que de jeunes talents prometteurs.
+Il serait avantageux d'avoir un représentant spécialisé en handicap pour rencontrer les familles et élaborer avec elles un plan d'action adapté pour leur enfant. Il est important de prendre en compte les besoins individuels de chaque élève, et cela peut inclure un aménagement personnalisé de leur parcours scolaire, une réorganisation de leur emploi du temps, une assistance pour le choix de leur instrument de musique, ou encore une coordination avec les différents thérapeutes de l'élève.
