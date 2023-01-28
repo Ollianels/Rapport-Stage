@@ -1,4 +1,7 @@
 # Rapport-Stage
-Le conservatoire est un lieu d'apprentissage musical qui accueille tous les étudiants, indépendamment de leur âge, de leur niveau ou de leur lieu d'origine. Cependant, il y a des critères d'admission particuliers pour chaque discipline.
 
-Le Conservatoire de musique est un établissement d'enseignement supérieur ouvert à tous les étudiants, indépendamment de leur âge, de leur niveau de compétence ou de leur origine géographique. Cependant, il est important de noter que des critères d'admission spécifiques sont appliqués en fonction des disciplines proposées.
+## Premier jet
+L'article R 461 1 du Code de l'Éducation définit les critères de classification des établissements publics d'enseignement artistique. Ces critères incluent la nature et le niveau des cours proposés, les qualifications des professeurs, ainsi que la contribution de l'établissement à l'éducation et à la culture locale.
+
+## Version plus professionnelle
+La classification des établissements publics d'enseignement artistique est prévue par l'article R 461 1 du Code de l'Éducation. Ce classement est basé sur des critères tels que la nature et le niveau des enseignements dispensés, les qualifications professionnelles du personnel enseignant ainsi que la participation de l'établissement à l'action éducative et culturelle locale.
