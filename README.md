@@ -1,10 +1,10 @@
 # Rapport-Stage
 
 ## Original
-L’ancien bâtiment de la Caisse de sécurité sociale, construit en 1929, est réhabilité et rouvre ses portes en 1997. La Ville dispose dorénavant d’un conservatoire de musique et d’une salle de concert, l'Adagio.
+La salle Adagio (Photo 2) comprend 150 places assises et permet d’accueillir de nombreux artistes et de faire découvrir à un large public des musiques variées : classique, jazz, chanson, musiques du monde, etc. La programmation éclectique de l’Adagio fait appel à des professionnels de haut niveau, musiciens de renommée nationale et internationale, ainsi qu’à de jeunes musiciens prometteurs.
 
 ## Premier jet
-En 1997, après une réhabilitation, l'ancien bâtiment de la Caisse de sécurité sociale, construit en 1929, a rouvert ses portes au public. La ville a maintenant à sa disposition un conservatoire de musique et une salle de concert, l'Adagio.
+La salle Adagio (Photo 2) possède 150 sièges et est un lieu où il est possible de voir de nombreux artistes et de découvrir différents types de musique : classique, jazz, chanson, musiques du monde, etc. La programmation variée de l'Adagio se compose de professionnels de haut niveau, musiciens reconnus nationalement et internationalement, ainsi que des talents émergents.
 
 ## Version plus professionnelle
-L'ancien bâtiment de la Caisse de sécurité sociale, érigé en 1929, a subi une rénovation complète et a été ré-ouvert au public en 1997. La ville dispose désormais d'un établissement consacré à l'enseignement de la musique, ainsi qu'une salle de concert de renom, l'Adagio.
+La salle Adagio (Photo 2) est équipée de 150 places assises et accueille régulièrement des artistes de renom, offrant ainsi au public une diversité de genres musicaux tels que la musique classique, le jazz, la chanson et les musiques du monde. La programmation éclectique de l'Adagio est constituée de professionnels de haut niveau, musiciens de renommée nationale et internationale, ainsi que de jeunes talents prometteurs.
