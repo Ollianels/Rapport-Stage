@@ -1,10 +1,10 @@
 # Rapport-Stage
 
 ## Original
-C’est dans les années 1980 que la Ville de Thionville qui jusque-là ne disposait que d’une petite école de musique et pas encore d’une salle de concert projette de créer un lieu regroupant les deux structures. Mais le projet devra attendre 1996 pour se concrétiser.
+L’ancien bâtiment de la Caisse de sécurité sociale, construit en 1929, est réhabilité et rouvre ses portes en 1997. La Ville dispose dorénavant d’un conservatoire de musique et d’une salle de concert, l'Adagio.
 
 ## Premier jet
-Au cours des années 1980, la ville de Thionville a commencé à envisager la création d'un lieu qui regrouperait une école de musique et une salle de concert, étant donné qu'elle ne disposait jusque-là que d'une petite école de musique et pas encore d'une salle de concert. Cependant, le projet n'a pu être réalisé qu'en 1996.
+En 1997, après une réhabilitation, l'ancien bâtiment de la Caisse de sécurité sociale, construit en 1929, a rouvert ses portes au public. La ville a maintenant à sa disposition un conservatoire de musique et une salle de concert, l'Adagio.
 
 ## Version plus professionnelle
-Dans les années 1980, la Ville de Thionville a entrepris un projet visant à créer un établissement réunissant une école de musique et une salle de concert, étant donné qu'elle ne disposait jusque-là que d'une petite école de musique sans infrastructure consacrée à des concerts. Cependant, ce projet ambitieux n'a pu être concrétisé qu'en 1996, après de nombreuses années de planification et de mise en œuvre.
+L'ancien bâtiment de la Caisse de sécurité sociale, érigé en 1929, a subi une rénovation complète et a été ré-ouvert au public en 1997. La ville dispose désormais d'un établissement consacré à l'enseignement de la musique, ainsi qu'une salle de concert de renom, l'Adagio.
