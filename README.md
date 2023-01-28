@@ -1,10 +1,10 @@
 # Rapport-Stage
 
 ## Original
-Le classement des établissements publics d'enseignement artistique est inscrit à l'article R 461 1 du Code de l'Éducation. Ce classement prend en compte la nature et le niveau des enseignements dispensés, les qualifications du personnel enseignant et la participation de l'établissement à l'action éducative et culturelle locale.
+C’est dans les années 1980 que la Ville de Thionville qui jusque-là ne disposait que d’une petite école de musique et pas encore d’une salle de concert projette de créer un lieu regroupant les deux structures. Mais le projet devra attendre 1996 pour se concrétiser.
 
 ## Premier jet
-L'article R 461 1 du Code de l'Éducation définit les critères de classification des établissements publics d'enseignement artistique. Ces critères incluent la nature et le niveau des cours proposés, les qualifications des professeurs, ainsi que la contribution de l'établissement à l'éducation et à la culture locale.
+Au cours des années 1980, la ville de Thionville a commencé à envisager la création d'un lieu qui regrouperait une école de musique et une salle de concert, étant donné qu'elle ne disposait jusque-là que d'une petite école de musique et pas encore d'une salle de concert. Cependant, le projet n'a pu être réalisé qu'en 1996.
 
 ## Version plus professionnelle
-La classification des établissements publics d'enseignement artistique est prévue par l'article R 461 1 du Code de l'Éducation. Ce classement est basé sur des critères tels que la nature et le niveau des enseignements dispensés, les qualifications professionnelles du personnel enseignant ainsi que la participation de l'établissement à l'action éducative et culturelle locale.
+Dans les années 1980, la Ville de Thionville a entrepris un projet visant à créer un établissement réunissant une école de musique et une salle de concert, étant donné qu'elle ne disposait jusque-là que d'une petite école de musique sans infrastructure consacrée à des concerts. Cependant, ce projet ambitieux n'a pu être concrétisé qu'en 1996, après de nombreuses années de planification et de mise en œuvre.
